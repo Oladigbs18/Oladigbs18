@@ -25,8 +25,7 @@ I'm a Web Designer studying at Lagos State University. I am a creative, self-mot
 She/Her
 
 ### 🌱 What do I do?
-- ✔️ I am an Alpha Microsoft Learn Student Ambassador.![LevelAlpha](https://github.com/Oladigbs18/Oladigbs18/assets/100875512/a60b4e8b-46b3-4226-a23d-37f8ff897bd5)
-
+- ✔️ I am an Alpha Microsoft Learn Student Ambassador![download](https://github.com/Oladigbs18/Oladigbs18/assets/100875512/1de06116-1c09-485a-97ad-4b6df73f928a)
 
 - ✔️ I am continuously developing my skills to become a Software Engineer and deliver cutting-edge solutions to my clients.
 
