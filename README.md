@@ -39,7 +39,7 @@ A goal-getter, an analytical, dependable and responsible person
 If you want to discuss these things, you can join me on [LinkedIn](https://www.linkedin.com/in/aaliyah-oladigbolu-54a452244/). Please feel free to also ask me anything (within reason).
 
 ### 💬 Want to know more about me?
-You can find me on my portfolio (https://salmon-ocean-0e7883f0f-1.eastus2.4.azurestaticapps.net/) 
+You can find me on my portfolio (https://oladigbs18.github.io/Aaliyah-s-Portfolio-/)
 
 ### I love cats too which is why I love GitHub  
 ![Dn0wy50XkAAoumG (1)](https://github.com/Oladigbs18/Oladigbs18/assets/100875512/71fbddd9-501f-4205-8a7b-cbdaa2d187c1)
